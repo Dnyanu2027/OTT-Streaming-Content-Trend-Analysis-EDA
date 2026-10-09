@@ -1,4 +1,3 @@
-# OTT-Streaming-Content-Trend-Analysis-EDA
 # OTT Streaming Content Trend Analysis (EDA)
 
 Exploratory data analysis of the Netflix titles catalogue using Python. The project looks at what the content library contains, where it comes from, and how it has changed over time.
@@ -91,9 +90,3 @@ jupyter notebook OTT_Streaming_Content_trend_Analysis.ipynb
 ## Tools
 
 Python · pandas · NumPy · Matplotlib · Seaborn · Jupyter
-
-## Next steps
-
-- Country-by-genre breakdown
-- Release year vs year added, to measure how fast new titles reach the platform
-- Merge IMDb ratings to link content trends to audience response
