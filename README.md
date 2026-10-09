@@ -53,11 +53,13 @@ Answer four questions about the catalogue:
 <img width="745" height="410" alt="Screenshot 2026-10-09 132623" src="https://github.com/user-attachments/assets/6626c532-990f-43be-91f1-415eacce3b99" />
 
 
-![TV share by release year](images/tv_share_by_release_year.png)
+(<img width="764" height="432" alt="tv_share_by_release_year" src="https://github.com/user-attachments/assets/e8e79adc-1fb2-4b2e-9798-069595b6f5a5" />
+)
 
-![Top countries](images/top_countries.png)
+<img width="637" height="455" alt="top_countries" src="https://github.com/user-attachments/assets/74419543-19a0-4791-8835-37f87a0ead3c" />
 
-![Movie runtime](images/movie_runtime.png)
+
+<img width="1189" height="440" alt="movie_runtime" src="https://github.com/user-attachments/assets/55bd7455-d313-4f18-8e99-576c28ded08c" />
 
 ## Repository structure
 
