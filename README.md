@@ -50,8 +50,8 @@ Answer four questions about the catalogue:
 
 ## Selected charts
 
-![Titles added per year](<img width="745" height="410" alt="image" src="https://github.com/user-attachments/assets/13d8f276-a73e-4705-9e89-9fa206483648" />
-)
+<img width="745" height="410" alt="Screenshot 2026-10-09 132623" src="https://github.com/user-attachments/assets/6626c532-990f-43be-91f1-415eacce3b99" />
+
 
 ![TV share by release year](images/tv_share_by_release_year.png)
 
